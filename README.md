@@ -1,5 +1,5 @@
 # Git Github Assignment 1
-## Task 1
+## Task 1 (check task1.odt)
 - Demonstrate minimum 15 basic Git command with explanation and screenshot.
 
 ## Task 2
@@ -10,7 +10,7 @@
 4. Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
 
 
-## Task 3
+## Task 3 
 1. Create a Issue in your github repository.
 2. Raise a pull request.
 3. Merge A pull request.
